@@ -1,0 +1,16 @@
+##fileformat=VCFv4.2
+##fileDate=20251024
+##source=ExampleVCFGenerator
+##reference=GRCh38
+##contig=<ID=chr1,length=248956422>
+##contig=<ID=chr2,length=242193529>
+##contig=<ID=chr3,length=198295559>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	10176	rs367896724	A	AC	.	PASS	.
+chr1	10352	rs555500075	T	TA	.	PASS	.
+chr1	10616	rs540538026	C	G	.	PASS	.
+chr1	11008	rs62635286	C	G	.	PASS	.
+chr1	13116	rs201747181	G	A	.	PASS	.
+chr2	20000	rs745120618	T	C	.	PASS	.
+chr2	20300	rs62635287	A	G	.	PASS	.
+chr3	30000	rs123456789	G	T	.	PASS	.

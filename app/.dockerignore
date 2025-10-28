@@ -1,0 +1,8 @@
+*
+!vcf
+!vcfapi
+!conftest.py
+!docker-entrypoint.sh
+!manage.py
+!requirements.txt
+!setup.cfg
